@@ -3,7 +3,7 @@ Script to manually update and display daily library hours.
 
 ## Instructions
 
-1. [Insert Library Hours Script](...)
+1. [Insert Library Hours Script](https://github.com/brianholda/daily_hours/blob/master/library_hours.js)
 2. Match IDs with the Script. Example:
 
 ```html
